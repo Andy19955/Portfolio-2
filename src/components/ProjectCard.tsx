@@ -14,7 +14,7 @@ export default function ProjectCard({ project }: { project: Project }) {
       </div>
       <div className="flex flex-1 flex-col p-6">
         <p className="mb-4 text-xs font-bold uppercase tracking-[0.18em] text-orange-500">{project.focusArea}</p>
-        <h2 className="text-2xl font-bold tracking-tighter text-slate-950">{project.title}</h2>
+        <h3 className="text-2xl font-bold tracking-tighter text-slate-950">{project.title}</h3>
         <p className="mt-3 line-clamp-2 text-sm leading-6 text-slate-600">{project.description}</p>
         <span className="mt-6 inline-flex items-center gap-2 text-sm font-bold text-slate-950">
           Read more
