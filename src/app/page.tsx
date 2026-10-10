@@ -8,7 +8,7 @@ export default function Home() {
       <section id="about" className="scroll-mt-8 border-y border-slate-200 bg-white">
         <div className="mx-auto grid max-w-6xl gap-10 px-6 py-16 lg:grid-cols-[0.9fr_1.1fr] lg:items-center lg:px-8 lg:py-24">
           <div className="relative mx-auto aspect-square w-full max-w-sm overflow-hidden rounded-4xl border border-white/70 shadow-sm">
-            <MediaImage src="/images/portrait.jpeg" alt="Profile picture of Andreas Thune" fill className="object-cover" />
+            <MediaImage src="/images/portrait.webp" alt="Profile picture of Andreas Thune" fill className="object-cover" />
           </div>
           <div className="max-w-2xl">
             <p className="text-sm font-bold uppercase tracking-[0.18em] text-orange-500">Hello, I&apos;m Andreas</p>
