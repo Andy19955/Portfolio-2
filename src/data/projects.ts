@@ -4,7 +4,7 @@ export const cssProject: Project = {
   slug: "/CSS-Frameworks",
   focusArea: "01 / CSS Frameworks",
   title: "Beam",
-  imageUrl: "/images/css-frameworks-preview.jpg",
+  imageUrl: "/images/css-frameworks-preview.webp",
   imageAlt: "Screenshot of the Beam project",
   description: "A social media platform for sharing and discovering images, built with HTML, Tailwind CSS and JavaScript. The platform features a responsive design and user authentication.",
   story:
@@ -18,7 +18,7 @@ export const javascriptProject: Project = {
   slug: "/JavaScript-Frameworks",
   focusArea: "02 / JavaScript Frameworks",
   title: "The Online Store",
-  imageUrl: "/images/javascript-frameworks-preview.jpg",
+  imageUrl: "/images/javascript-frameworks-preview.webp",
   imageAlt: "Screenshot of the Online Store project",
   description: "A modern online store built with React and Next.js, featuring a responsive design, product catalog and shopping cart functionality with checkout process.",
   story:
@@ -32,7 +32,7 @@ export const semesterProject: Project = {
   slug: "/Semester-Project-2",
   focusArea: "03 / Semester project",
   title: "The Auction Hub",
-  imageUrl: "/images/semester-project-2-preview.jpg",
+  imageUrl: "/images/semester-project-2-preview.webp",
   imageAlt: "Screenshot of the Auction Hub project",
   description:
     "A modern online auction platform where users can discover rare treasures, place bids, and manage auction listings. The platform is built as a comprehensive web application with responsive design and user authentication.",
