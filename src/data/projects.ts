@@ -25,7 +25,7 @@ export const javascriptProject: Project = {
     "This project was created as part of a course on JavaScript frameworks. The goal was to build a modern online store using React and Next.js. The project features a responsive design, product catalog and shopping cart functionality with checkout process. The project was a great opportunity to learn about React and Next.js, and how to use them to build dynamic and interactive web applications.\n\nVisitors can browse products, add items to their card, edit the quantity of items in the cart, and proceed to checkout. The project's checkout process is a static form that does not submit data to a backend, but it is designed to be easily integrated with a backend API in the future, allowing for dynamic data storage and retrieval.",
   accent: "from-cyan-200 to-indigo-100",
   liveUrl: "https://javascript-frameworks.vercel.app/",
-  githubReadmeUrl: "https://github.com/Andy19955/JavaScript-Frameworks/blob/master/README.md",
+  githubReadmeUrl: "https://github.com/NoroffFEU/jsfw-2025-v1-andreas-js-frameworks/blob/main/README.md",
 };
 
 export const semesterProject: Project = {
