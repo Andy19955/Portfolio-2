@@ -11,7 +11,7 @@ export const cssProject: Project = {
     "This project was created as part of a course on CSS frameworks. The goal was to build a social media platform styled with a CSS framework. In this case, the framework used was Tailwind CSS. The project was built with HTML, Tailwind CSS and JavaScript, and features a responsive design and user authentication. The project was a great opportunity to learn about CSS frameworks and how to use them to build responsive and visually appealing web applications.\n\nThe authentication system allows users with a @stud.noroff.no email to register and log in to the platform. Once authenticated, users can create posts, search and filter posts. Currently the project is most of a static site, storing data in the browser's local storage. However, the project is designed to be easily integrated with a backend API in the future, allowing for dynamic data storage and retrieval.",
   accent: "from-amber-200 to-rose-100",
   liveUrl: "https://css-frameworks-course.netlify.app/",
-  githubReadmeUrl: "https://github.com/Andy19955/CSS-Frameworks/blob/css-frameworks/README.md",
+  githubReadmeUrl: "https://github.com/Andy19955/CSS-Frameworks/blob/master/README.md",
 };
 
 export const javascriptProject: Project = {
